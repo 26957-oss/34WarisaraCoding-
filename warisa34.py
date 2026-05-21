@@ -1,0 +1,5 @@
+print("My name is Warissara")
+print("You can call me Pin")
+print("I'm 15 years old")
+print("I luv Kru.Fern ei ei")
+print("(>-<)")
